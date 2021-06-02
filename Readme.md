@@ -11,8 +11,8 @@
 1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) :
 
 - Native PHP7
-- Framework Codeigniter
-- Framework Laravel
+- Framework Codeigniter 3/4
+- Framework Laravel 8
 
 2. Secara umum, anda bebas merancang dan mendesain aplikasi anda masing-masing. Penggunaan gambar dan posisi tampilan tidak dibatasi. Namun demikian, aplikasi yang anda buat harus mengimplementasikan fitur wajib sebagai berikut :
 
