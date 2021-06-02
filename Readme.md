@@ -21,7 +21,7 @@
 
 _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (Keunggulan Tertentu). Be Creative!🎉**_
 
-3. Sifat Project Akhir adalah **Kelompok (max 4 mhs)**
+3. Buat Kelompok Project **(max 4 mhs)**
 4. Pelaporan project
 
 - `Fork Repositori ini`
