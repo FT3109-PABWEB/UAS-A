@@ -6,41 +6,47 @@
 <a href="#"><img src="https://img.shields.io/badge/Kelas-A-blue"><a/>
 </p>
 
-***
+---
 
-1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) : 
-* Native PHP7
-* Framework Codeigniter
-* Framework Laravel
+1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) :
+
+- Native PHP7
+- Framework Codeigniter
+- Framework Laravel
+
 2. Secara umum, anda bebas merancang dan mendesain aplikasi anda masing-masing. Penggunaan gambar dan posisi tampilan tidak dibatasi. Namun demikian, aplikasi yang anda buat harus mengimplementasikan fitur wajib sebagai berikut :
-* Database
-* Menerapkan Proses _Create Read Update Delete_ (CRUD)
-* Login
+
+- Database
+- Menerapkan Proses _Create Read Update Delete_ (CRUD)
+- Login
 
 _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (Keunggulan Tertentu). Be Creative!🎉**_
 
 3. Sifat Project Akhir adalah **Kelompok (max 4 mhs)**
 4. Pelaporan project
-* Diperbolehkan untuk melakukan `upload project web ke Domain & Hosting gratis`. 
-* Jika sudah `terupload`, maka saat pengumpulan `project` disertai dengan `alamat WEB (URL)`
-* `Fork Repositori` kelas-nya masing-masing 👉 [UAS-PABWEB](https://github.com/UAS-PABWEB)
-* Buat`Branch`dengan nama `Kelompok_Anda`. **Contoh: Kelompok_1**
-> **** Didalam repositori **Kelompok_anda**, buat struktur direktori sebagai *berikut:*
 
-    .
-    ├── ...
-    ├── Kelompok_1                # Nama repositori
-    │   ├── Project Web           # Berisi source code project anda
-    │   ├── Contributors.md       # List bodata Anggota kelompok anda
-    │   └── Link Website.md       # Demo Website project anda
-    └── ...
-* Push berkas project kelompok anda ke repositori pada `branch` *kelompok_anda*.
-* Buat `Pull Request` untuk` Merge branch` `kelompok_anda `dengan `branch master` pada repositori ini.
-* Tugas anda dinyatakan diterima jika `branch kelompok_anda` telah `merged `dengan `branch master repositori ini.`
+- Diperbolehkan untuk melakukan `upload project web ke Domain & Hosting gratis`.
+- Jika sudah `terupload`, maka saat pengumpulan `project` disertai dengan `alamat WEB (URL)`
+- `Fork Repositori ini`
+- Buat`Branch`dengan nama `Kelompok_Anda`. **Contoh: Kelompok_1**
+
+  > \***\* Didalam repositori **Kelompok_anda\**, buat struktur direktori sebagai *berikut:\*
+
+      .
+      ├── ...
+      ├── Kelompok_1                # Nama repositori
+      │   ├── Project Web           # Berisi source code project anda
+      │   ├── Contributors.md       # List bodata Anggota kelompok anda
+      │   └── Link Website.md       # Demo Website project anda
+      └── ...
+
+- Push berkas project kelompok anda ke repositori pada `branch` _kelompok_anda_.
+- Buat `Pull Request` untuk` Merge branch` `kelompok_anda `dengan `branch master` pada repositori ini.
+- Tugas anda dinyatakan diterima jika `branch kelompok_anda` telah `merged `dengan `branch master repositori ini.`
 
 **❌ Tidak diperbolehkan `push project` dengan format berkas (.zip/.rar/.tar/.7z) & `Add files via upload`.**
 
-***
+---
 
 <!-- Alignment options!!!!! -->
 <div align="center">
@@ -49,7 +55,12 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
 <!-- Alignment options!!!!! -->
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![PHP](https://img.shields.io/badge/PHP-8.0-brightgreen.svg?style=flat&logo=php&logoColor=white&color=777BB4)
-![](https://img.shields.io/badge/VSCode-1.56.2-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://tokei.rs/b1/github.com/FT3109-PABWEB/UAS-A)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/FT3109-PABWEB/UAS-A)
+
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/github/forks/https://github.com/FT3109-PABWEB/UAS-A?style=social"alt="Fork"></a>
+<a href="#"><img src="https://img.shields.io/github/contributors/FT3109-PABWEB/PABWEB-A/UAS-A"alt="Stars"></a>
+<a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="#"><img src="https://img.shields.io/badge/VSCode-1.56.2-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"alt="fork"></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-8.0-brightgreen.svg?style=flat&logo=php&logoColor=white&color=777BB4"alt="php8"><a/>
+</p>
