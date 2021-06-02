@@ -42,11 +42,12 @@ _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (
 - Push berkas project kelompok anda ke repositori pada `branch` _kelompok_anda_.
 - Tugas anda dinyatakan diterima jika `branch kelompok_anda` telah `merged `dengan `branch master repositori ini.`
 
-**❌ Tidak diperbolehkan `push project` dengan format berkas (.zip/.rar/.tar/.7z) & `Add files via upload`.**
+  
+#### ❌ Tidak diperbolehkan `push project` dengan format berkas (.zip/.rar/.tar/.7z) & `Add files via upload`. ❌
 
----
 
 <!-- Alignment options!!!!! -->
+</div><br/>
 <div align="center">
 <b>✨Selamat mengerjakan, sukses selalu✨<br>✨Happy Programming, practice make perfect✨<b/>
 </div><br/>
