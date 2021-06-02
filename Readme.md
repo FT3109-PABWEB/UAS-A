@@ -25,7 +25,7 @@ _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (
 4. Pelaporan project
 
 - `Fork Repositori ini`
-- Diperbolehkan untuk melakukan `upload project web ke Domain & Hosting gratis`.
+- Diperbolehkan untuk melakukan `upload project ke penyedia Hosting gratis`.
 - Jika sudah `dihosting`, maka saat pengumpulan `project` disertai dengan `alamat WEB (URL)`
 - Buat`Branch`dengan nama `Kelompok_Anda`. **Contoh: Kelompok_1**
 
