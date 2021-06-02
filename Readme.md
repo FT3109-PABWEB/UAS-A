@@ -1,3 +1,5 @@
+# Repositori UAS
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/KMK-FT3109-orange"></a>
 <a href="#"><img src="https://img.shields.io/badge/UAS-Pengembangan%20Aplikasi%20Berbasis%20Web-brightgreen">
@@ -6,7 +8,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Kelas-A-blue"><a/>
 </p>
 
----
 
 1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) :
 
@@ -37,7 +38,7 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
       ├── Kelompok_1                # Nama repositori
       │   ├── Project Web           # Berisi source code project anda
       │   ├── Contributors.md       # List bodata Anggota kelompok anda
-      │   └── Link Website.md       # Demo Website project anda
+      │   └── Link Website.md       # Demo Website project anda 
       └── ...
 
 - Push berkas project kelompok anda ke repositori pada `branch` _kelompok_anda_.
