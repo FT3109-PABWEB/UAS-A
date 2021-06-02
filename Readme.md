@@ -8,7 +8,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Kelas-A-blue"><a/>
 </p>
 
-
 1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) :
 
 - Native PHP7
@@ -38,7 +37,7 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
       ├── Kelompok_1                # Nama repositori
       │   ├── Project Web           # Berisi source code project anda
       │   ├── Contributors.md       # List bodata Anggota kelompok anda
-      │   └── Link Website.md       # Demo Website project anda 
+      │   └── Link Website.md       # Demo Website project anda
       └── ...
 
 - Push berkas project kelompok anda ke repositori pada `branch` _kelompok_anda_.
@@ -53,11 +52,8 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
 <div align="center">
 <b>✨Selamat mengerjakan, sukses selalu✨<br>✨Happy Programming, practice make perfect✨<b/>
 </div><br/>
+
 <!-- Alignment options!!!!! -->
-
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-
-
 <p align="center">
 <a href="#"><img alt="GitHub forks" src="https://img.shields.io/github/forks/FT3109-PABWEB/UAS-A?style=social"></a>
 <a href="#"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/PABWEB-A/UAS-A?style=social"></a>
