@@ -18,9 +18,8 @@
 
 - Database
 - Menerapkan Proses _Create Read Update Delete_ (CRUD)
-- Login
 
-_**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (Keunggulan Tertentu). Be Creative!🎉**_
+_**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (Keunggulan Tertentu). Be Creative!🎉**_
 
 3. Sifat Project Akhir adalah **Kelompok (max 4 mhs)**
 4. Pelaporan project
