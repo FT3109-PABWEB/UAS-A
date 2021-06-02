@@ -59,8 +59,8 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
 
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/github/forks/https://github.com/FT3109-PABWEB/UAS-A?style=social"alt="Fork"></a>
-<a href="#"><img src="https://img.shields.io/github/contributors/FT3109-PABWEB/PABWEB-A/UAS-A"alt="Stars"></a>
+<a href="#"><img alt="GitHub forks" src="https://img.shields.io/github/forks/FT3109-PABWEB/UAS-A?style=social"></a>
+<a href="#"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/PABWEB-A/UAS-A?style=social"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 <a href="#"><img src="https://img.shields.io/badge/VSCode-1.56.2-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"alt="fork"></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-8.0-brightgreen.svg?style=flat&logo=php&logoColor=white&color=777BB4"alt="php8"><a/>
