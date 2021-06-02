@@ -24,9 +24,9 @@ _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (
 3. Sifat Project Akhir adalah **Kelompok (max 4 mhs)**
 4. Pelaporan project
 
-- Diperbolehkan untuk melakukan `upload project web ke Domain & Hosting gratis`.
-- Jika sudah `terupload`, maka saat pengumpulan `project` disertai dengan `alamat WEB (URL)`
 - `Fork Repositori ini`
+- Diperbolehkan untuk melakukan `upload project web ke Domain & Hosting gratis`.
+- Jika sudah `dihosting`, maka saat pengumpulan `project` disertai dengan `alamat WEB (URL)`
 - Buat`Branch`dengan nama `Kelompok_Anda`. **Contoh: Kelompok_1**
 
   > \***\* Didalam repositori **Kelompok_anda\**, buat struktur direktori sebagai *berikut:\*
