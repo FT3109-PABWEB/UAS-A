@@ -1,0 +1,8 @@
+Login Terlebih Dahulu Untuk Bisa Menjadi Admin
+
+Menu : 
+1. Admin : Bisa Menanagemen Data (CRUD)
+2. User : Hanya Dapat Melihat Data 
+
+Ada 4 Data Yang Tidak Bisa Ditambah Dikarenakan Keempat Data Tersebut
+Menggunakan Relasi 
